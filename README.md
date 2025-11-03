@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**nophoria/nophoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ```◄ 0s ◎ nvim readme.md    ⌂ 17:30```
 
-Here are some ideas to get you started:
+## Hello, I'm nophoria!
+...but you can just call me JJ ;) I am a person with a passion for programming, UI/UX and maybe a sprinkle of composition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun facts
+- **Pronouns**       : he/him
+- **Language**       : Python
+- **Current Project**: [QueTueDue](https://github.com/nophoria/QueTueDue/)
+- **Contact**        : pigable768@gmail.com
+
+### Stats
+![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=nophoria&count_private=true&show_icons=true&theme=tokyonight)
+```
+[/nophoria/nophoria/readme.md                  1,1               Top]
+[> :wq                                                              ]
+```
