@@ -1,7 +1,7 @@
 
-# ```◄ 0s ◎ nvim readme.md    ⌂ 17:30```
+### ```◄ 0s ◎ nvim readme.md    ⌂ 17:30```
 
-## Hello, I'm nophoria!
+# Hello, I'm nophoria!
 ...but you can just call me JJ ;) I am a person with a passion for programming, UI/UX and maybe a sprinkle of composition.
 
 ### Fun facts
@@ -12,7 +12,6 @@
 
 ### Stats
 ![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=nophoria&count_private=true&show_icons=true&theme=tokyonight)
-```
-[/nophoria/nophoria/readme.md                  1,1               Top]
-[> :wq                                                              ]
-```
+
+### ```>:wq```
+
