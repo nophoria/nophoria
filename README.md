@@ -2,7 +2,7 @@
 ### ```◄ 0s ◎ nvim readme.md    ⌂ 17:30```
 
 # Hello, I'm nophoria!
-...but you can just call me JJ ;) I am a person with a passion for programming, UI/UX and maybe a sprinkle of composition.
+...but you can just call me James :3 I am a person with a passion for programming, UI/UX and a sprinkle of music composition.
 
 ### Fun facts
 - **Pronouns**       : he/him
