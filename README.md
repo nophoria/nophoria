@@ -7,8 +7,7 @@
 ### Fun facts
 - **Pronouns**       : he/him
 - **Language**       : Python
-- **Current Project**: [QueTueDue](https://github.com/nophoria/QueTueDue/)
-- **Contact**        : pigable768@gmail.com
+- **Current Project**: M5Stack Core S3 mp3 Player
 
 ### Stats
 ![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=nophoria&count_private=true&show_icons=true&theme=tokyonight)
