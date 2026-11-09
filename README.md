@@ -7,7 +7,7 @@
 ### Fun facts
 - **Pronouns**       : he/him
 - **Language**       : Python
-- **Current Project**: M5Stack Core S3 mp3 Player
+- **Current Project**: [Organichat](https://github.com/nophoria/organichat) backend
 
 ### Stats
 ![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=nophoria&count_private=true&show_icons=true&theme=tokyonight)
